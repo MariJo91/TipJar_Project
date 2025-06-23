@@ -32,7 +32,7 @@ Antes de clonar y ejecutar este proyecto, asegúrate de tener instalado lo sigui
 
 1.  **Clona este repositorio:**
     ```bash
-    git clone [https://github.com/TuUsuario/TuRepositorioTipJar.git](https://github.com/TuUsuario/TuRepositorioTipJar.git)
+    git clone [https://https://github.com/MariJo91/TipJar_Project
     cd TuRepositorioTipJar
     ```
 
